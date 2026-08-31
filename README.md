@@ -3,7 +3,7 @@
 ### 📊 GitHub 動態統計
 <!-- 展示 Commit 數、Star 數、PR 等統計 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub帳號&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jdlct&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </a>
 
 ### 💬 Discord 即時狀態
